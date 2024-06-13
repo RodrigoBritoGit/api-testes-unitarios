@@ -18,7 +18,7 @@ Este projeto é uma API construída usando **Java, Java Spring e H2 como banco d
 1. Clone o repositório:
 
 ```bash
-git clone 
+git clone https://github.com/RodrigoBritoGit/api-testes-unitarios.git
 ```
 
 2. Instale as dependências com Maven
